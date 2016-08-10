@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>io.dcloud.H5E6B1F7C</string>
+				<string>com.china.FuJian.WuJiaJu.JGYJ</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>林业资源调查专家</string>
+				<string>JGYJ</string>
 			</dict>
 		</dict>
 	</array>
